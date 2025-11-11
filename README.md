@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Angelina 👋
 
 ## 🚀 About Me
 I'm a **Material Scientist (PhD)** turned data analyst/scientist,  passionate about translating data and research to insights and impacts.
